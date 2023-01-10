@@ -51,3 +51,5 @@ app.delete('/art/:id', (request, response) => {
 
   response.status(200).json(app.locals.art)
 })
+
+module.exports = app
