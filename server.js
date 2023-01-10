@@ -1,9 +1,9 @@
 const express = require('express')
 const art = require('./data.js')
-// const cors = require('cors')
+const cors = require('cors')
 const app = express()
 
-// app.use(cors())
+app.use(cors())
 app.use(express.json())
 
 app.locals.title = 'Oliva Ruth Arts API'
