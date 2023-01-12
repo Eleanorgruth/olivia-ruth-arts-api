@@ -1,7 +1,6 @@
 const data = [
   {
-    id: 1, type: 'glass', title: 'Blue Vase', medium: 'Blown glass', date: 'Spring 2022', dimension: '8 inches tall', description: 'Using the a color overlay, and combining two shades, Olivia achieved a swirl of vibrant color in this glass vase.', url: 
-    '1D-UeVGpZWGLcn8ckoRzZUGruWVLJNPgO'
+    id: 1, type: 'glass', title: 'Blue Vase', medium: 'Blown glass', date: 'Spring 2022', dimension: '8 inches tall', description: 'Using the a color overlay, and combining two shades, Olivia achieved a swirl of vibrant color in this glass vase.', url: '1DuczAnybuKkZFip5yQZ7jpgAy-CxTsNF'
   },
   {
     id: 2, type: 'glass', title: 'Scrap Vase', medium: 'Blown glass', date: 'Spring 2022', dimension: '7 inches tall', description: 'After several failed attempts to work with cane, Olivia had gathered and hoarded a large amount of cane scraps, which she then reworked into this vase', url: '1G-N4Ub0HT2bqmTeHPNqTTZp3lJ_ToRZR'
