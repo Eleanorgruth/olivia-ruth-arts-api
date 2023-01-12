@@ -99,7 +99,7 @@ const data = [
     id: 33, type: 'developmental', title: 'Bookshelf', medium: 'Watercolor, marker, and pen', date: 'Spring 2022', dimension: '4 inches x 6 inches', description: 'Illustration of Olivia\'s curated bookshelf.', url: '1GZcoIMD8fioFcPEg2JYH1N3ifCUixJ6T'
   },
   {
-    id: 34, type: 'fiber', title: 'Granny sweater', medium: 'Crochet', date: 'Spring 2021', dimension: '', description: 'The first thing Olivia ever crocheted was this sweater. Crocheting was a Craft she picked up over quarantine.', url: '1kyQv8hz7YF8nOghiVADmev4d4-eY-iIz'
+    id: 34, type: 'fiber', title: 'Granny sweater', medium: 'Crochet', date: 'Spring 2021', dimension: '', description: 'The first thing Olivia ever crocheted was this sweater. Crocheting was a Craft she picked up over quarantine.', url: '1LyxgA2YpJFwU3TX09wpGTyLrwXKSGxSX'
   },
   {
     id: 35, type: 'fiber', title: 'Sydney', medium: 'Crochet', date: 'December 2022', dimension: '4 inches x 6 inches', description: 'Sydney is a crocheted ornament of her sisters dog.', url: '1tZYPUP9zBIuOAN4J6vjue7OPxFjj9EFK'
