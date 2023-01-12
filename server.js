@@ -16,6 +16,7 @@ app.listen(app.get('port'), () => {
 
 app.get('/art', (request, response) => {
   response.status(200).json(app.locals.art)
+  res.set("Cache-Control", "public, max-age=31536000");
 })
 
 app.get('/art/:id', (request, response) => {
