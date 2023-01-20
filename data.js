@@ -37,7 +37,7 @@ const data = [
     id: 12, type: 'print', title: 'Butterfly reduction print', medium: 'Linoleum reduction print', date: 'August 2022', dimension: '5 inches x 5 inches', description: 'A reintroduction to the reduction print process.', url: '1e_pFt_EhZOskOfcwxytSTaEmPV4ZXo87'
   },
   {
-    id: 13, type: 'print', title: 'English Breakfast', medium: 'Monotype gelli print', date: 'June 2022', dimension: '15 inches x 22 inches', description: 'Through a printmaking class with Melanie Yazzie, Olivia was asked to consider the symbols in her life. Tea is a necessity in her family home, and has grown into a symbol of her relationship with her family. Her father shows her mother his love by making her a cup of tea every day.', url: '1LMl2LVY0Wde1SwovlR0OY_Tw2mcCFwri'
+    id: 13, type: 'print', title: 'English Breakfast', medium: 'Monotype gelli print', date: 'June 2022', dimension: '15 inches x 22 inches', description: 'Through a printmaking class with Melanie Yazzie, Olivia was asked to consider the symbols in her life. Tea is a necessity in her family home, and has grown into a symbol of her relationship with her family. Her father shows her mother his love by making her a cup of tea every day.', url: '1sUHNxvTZQoUK1dAKZivEwWDoi0PCrIAR'
   },
   {
     id: 14, type: 'print', title: 'English Breakfast 2', medium: 'Monotype gelli print', date: 'June 2022', dimension: '11 inches x 15 inches', description: 'Through a printmaking class with Melanie Yazzie, Olivia was asked to consider the symbols in her life. The second lift of the English breakfast monotype, gives a lighter tea and a more wet tea bag look compared to the full sized print. Tea is a symbol of love in Olivia\'s family, and even before she had the taste for it she would drink black tea.', url: '1Z7DxMtI5z47iR5h0fUyIVoaa7lKRIg8d'
@@ -103,13 +103,13 @@ const data = [
     id: 34, type: 'fiber', title: 'Granny sweater', medium: 'Crochet', date: 'Spring 2021', dimension: '22 inches by 29 inches', description: 'The first thing Olivia ever crocheted was this sweater. Crocheting was a craft she picked up over quarantine.', url: '1JQNvKYYbPgVZwkZQRwPTgaAsZgm9e2Wu'
   },
   {
-    id: 35, type: 'fiber', title: 'Sydney', medium: 'Crochet', date: 'December 2022', dimension: '4 inches x 6 inches', description: 'Sydney is a crocheted ornament of her sister\'s dog.', url: '1JQNvKYYbPgVZwkZQRwPTgaAsZgm9e2Wu'
+    id: 35, type: 'fiber', title: 'Sydney', medium: 'Crochet', date: 'December 2022', dimension: '4 inches x 6 inches', description: 'Sydney is a crocheted ornament of her sister\'s dog.', url: '1JK1FmfvgwkORFz7SwAMsoaXYLVtA0kMB'
   },
   {
-    id: 36, type: 'fiber', title: 'Flower bag', medium: 'Crochet', date: 'Fall 2021', dimension: '10 inches x 12 inches', description: 'Olivia used the left over yarn from the granny sweater to make a tote bag.', url: '1JQNvKYYbPgVZwkZQRwPTgaAsZgm9e2Wu'
+    id: 36, type: 'fiber', title: 'Flower bag', medium: 'Crochet', date: 'Fall 2021', dimension: '10 inches x 12 inches', description: 'Olivia used the left over yarn from the granny sweater to make a tote bag.', url: '12XkKQDFFDvWQ-itYH2dp9V_t5HH6Ji4s'
   },
   {
-    id: 37, type: 'fiber', title: 'Olivia Octopus', medium: 'Embroidery', date: 'Fall 2020', dimension: '8 inch diameter', description: 'Time in isolation lead Olivia to expand and seek out many craft mediums, including embroidery.', url: '1JQNvKYYbPgVZwkZQRwPTgaAsZgm9e2Wu'
+    id: 37, type: 'fiber', title: 'Olivia Octopus', medium: 'Embroidery', date: 'Fall 2020', dimension: '8 inch diameter', description: 'Time in isolation lead Olivia to expand and seek out many craft mediums, including embroidery.', url: '1TX-AdAomPLtyVRbXVPnNde6aoFhidbhM'
   }
 ]
 
